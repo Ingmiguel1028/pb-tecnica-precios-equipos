@@ -1,0 +1,7 @@
+statsmodels
+scikit-learn
+seaborn
+matplotlib
+plotly
+ydata-profiling
+scipy 
